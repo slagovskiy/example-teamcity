@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="7f0dce53-994e-40e6-9f81-2160dc552fb4" type="jetbrains.git" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2025.3/project-config.xsd">
+  <name>https://github.com/slagovskiy/example-teamcity#refs/heads/master</name>
+  <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
+  <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
+  <param name="authMethod" value="PASSWORD" />
+  <param name="branch" value="refs/heads/master" />
+  <param name="ignoreKnownHosts" value="true" />
+  <param name="secure:password" value="zxxac0b501ef9a679f46308cf87a46d68e3d3d6158fdab894d8d4d25592204886340c68e2826afaeda84dd383cd5e4070588f99b15d8c07c8bc8738f7a51e356347362a8b3a623c8105951e02a9e9a2aa811d7f1f38cd847b27a10bfe202ca37d65" />
+  <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="teamcity:branchSpec" value="refs/heads/*" />
+  <param name="url" value="https://github.com/slagovskiy/example-teamcity" />
+  <param name="useAlternates" value="AUTO" />
+  <param name="username" value="slagovskiy" />
+  <param name="usernameStyle" value="USERID" />
+</vcs-root>
+
