@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="0c7a9806-9174-4e78-996a-91eca5efa109" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2025.3/project-config.xsd">
+  <name>Example Teamcity</name>
+</project>
+
